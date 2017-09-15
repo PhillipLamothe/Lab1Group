@@ -1,0 +1,7 @@
+#include <sheep.hpp>
+#include <windows.h>
+
+int main()
+{
+	int y = (m*x) + b;
+}
